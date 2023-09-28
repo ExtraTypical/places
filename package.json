@@ -1,0 +1,11 @@
+{
+  "name": "places",
+  "version": "1.0.0",
+  "description": "A project for displaying the foot traffic/heatmap of popular clubs and bars in NYC",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah Gray",
+  "license": "ISC"
+}
