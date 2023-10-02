@@ -1,7 +1,24 @@
 # places
 
-## Description
+## Project setup
+```
+npm install
+```
 
-The goal of this project is to create a system that displays the business and general vibe of the clubs/bars in NYC (as well as other cities in the future). I'm hoping to host it on my website micahgray.me at some point once I have a version that I like - that way other people can suggest places to list.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-This project will most likely need to be behind a paywall since the API itself will cost me pretty heavily.
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
